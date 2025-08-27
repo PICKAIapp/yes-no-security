@@ -1,4 +1,4 @@
-// PICKAI Security Audit Toolkit
+// yes-no.fun Security Audit Toolkit
 // Advanced vulnerability detection and penetration testing
 
 use ethers::prelude::*;
